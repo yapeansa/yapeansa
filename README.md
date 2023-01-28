@@ -10,7 +10,7 @@ Oi, meu nome é Yago Pereira. Sou nascido na cidade de Três Rios - RJ - e atual
 
 ## Estudando atualmente
 
-- Criando templates com CSS Flexbox e Grid
+- Criando templates com CSS: Flexbox e Grid
 - Javascript
 
 ## Redes Sociais
