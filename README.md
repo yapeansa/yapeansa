@@ -1,6 +1,6 @@
 ## Quem Sou Eu
 
-Oi, meu nome é Yago Pereira. Sou nascido na cidade de Três Rios, RJ, e atualmente vivo em Juiz de Fora, MG, onde me formei em Bacharelado em Matemática pela Universidade Federal de Juiz de Fora (UFJF). Atualmente sou aluno do curso de Mestrado Acadêmico em Matemática nesta mesma instituição e estudo desenvolvimento Web Front-end e Python para Data Science na instituição de ensino Alura.
+Oi, meu nome é Yago Pereira. Sou nascido na cidade de Três Rios -- RJ -- e atualmente vivo em Juiz de Fora -- MG -- onde me formei em Bacharelado em Matemática pela Universidade Federal de Juiz de Fora (UFJF). Atualmente sou aluno do curso de Mestrado Acadêmico em Matemática nesta mesma instituição e estudo desenvolvimento Web Front-end e Python para Data Science na instituição de ensino Alura.
 
 ## Habilidades
 
