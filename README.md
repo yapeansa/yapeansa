@@ -18,9 +18,7 @@ Hi, my name is Yago Pereira. I was born in Três Rios - RJ - and I'm currently l
 
 ## Redes Sociais
 
-- [Twitter](https://twitter.com/yapeansa)
-- [Instagram](https://instagram.com/yapeansa)
-- [Facebook](https://facebook.com/yapeansa)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yapeansa)
 
 ## Contato
 
