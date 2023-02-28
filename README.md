@@ -1,6 +1,6 @@
 ## Quem Sou Eu
 
-Oi, meu nome é Yago Pereira. Tenho 29 anos, sou nascido na cidade de Três Rios - RJ - e atualmente vivo em Juiz de Fora - MG - onde me formei em Bacharelado em Matemática pela Universidade Federal de Juiz de Fora (UFJF). Atualmente sou aluno do curso de Mestrado Acadêmico em Matemática nesta mesma instituição e estudo desenvolvimento Web Front-end e Python para Data Science na instituição de ensino Alura.
+Olá, meu nome é Yago Pereira. Tenho 29 anos, sou nascido na cidade de Três Rios - RJ - e atualmente vivo em Juiz de Fora - MG - onde me formei em Bacharelado em Matemática pela Universidade Federal de Juiz de Fora (UFJF). Atualmente sou aluno do curso de Mestrado Acadêmico em Matemática nesta mesma instituição e estudo desenvolvimento Web Front-end e Python para Data Science na instituição de ensino Alura.
 <!--
 Hi, my name is Yago Pereira. I was born in Três Rios - RJ - and I'm currently living in Juiz de Fora - MG. I graduate with a bachelor's degree in mathematics at Universidade Federal de Juiz de Fora (UFJF). ... and I study Front-end Web Development and Python for Data Science at Alura.
 -->
