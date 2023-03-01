@@ -7,7 +7,7 @@ Hi, my name is Yago Pereira. I was born in Três Rios - RJ - and I'm currently l
 
 ## Habilidades Front-end
 
-Abaixo estão as habilidades nas quais possuo experiência.
+> Abaixo estão as habilidades nas quais possuo experiência.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,14 +16,14 @@ Abaixo estão as habilidades nas quais possuo experiência.
 
 ## Estudando atualmente
 
-Atualmente tenho estudado sobre as seguintes tecnologias.
+> Atualmente tenho estudado sobre as seguintes tecnologias.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Contato
 
-Siga-me ou envie-me uma mensagem em minhas redes sociais.
+> Siga-me ou envie-me uma mensagem em minhas redes sociais.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yapeansa)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](http://twitter.com/yapeansa)
