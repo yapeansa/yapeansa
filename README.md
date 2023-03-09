@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 
-Hello, my name is Yago Pereira. I'm 29 years old, borned in Três Rios - RJ - and currently living in Juiz de Fora - MG - where I graduated with the bachelors degree in Mathematics at Universidade Federal de Juiz de Fora - [UFJF](http://ufjf.br). Today I'm a student at this very institution in the masters degree program in Mathematics. Also, I'm studying front-end web development and Python for data science at [Alura](https://alura.com.br).
+Hello, my name is Yago Pereira. I'm 29 years old, borned in Três Rios - RJ - and currently living in Juiz de Fora - MG - where I graduated with bachelors degree in Mathematics at Universidade Federal de Juiz de Fora - [UFJF](http://ufjf.br). Today I'm a student at this very institution in the masters degree program in Mathematics. Also, I'm studying front-end web development and Python for data science at [Alura](https://alura.com.br).
 
 ---
 
