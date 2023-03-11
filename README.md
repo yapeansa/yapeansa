@@ -49,6 +49,7 @@ Below you can see the languages and tools in which I have experience.
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Encontre-me nas redes sociais</h2>
 
 <div align="center">
+  <p>Don't forget to follow me on social networks!</p>
   <a href="https://www.linkedin.com/in/yago-pereira-dos-anjos-santos-85976750/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
