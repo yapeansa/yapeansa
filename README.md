@@ -46,7 +46,7 @@ Below you can see the languages and tools in which I have experience.
   
 </div>
 
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Encontre-me nas redes sociais</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Find me on social networks</h2>
 
 <div align="center">
   <p>Don't forget to follow me on social networks!</p>
