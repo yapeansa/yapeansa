@@ -46,10 +46,10 @@ Below you can see the languages and tools in which I have experience.
   
 </div>
 
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Find me on social networks</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> How else to find me</h2>
 
 <div align="center">
-  <p>Don't forget to follow me on social networks!</p>
+  <p>Here is my LinkedIn and my e-mail address so you can get in touch with me.</p>
   <a href="https://www.linkedin.com/in/yago-pereira-dos-anjos-santos-85976750/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
