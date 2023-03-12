@@ -50,7 +50,7 @@ Below you can see the languages and tools in which I have experience.
 
 <div align="center">
   <p>Here is my LinkedIn and my e-mail address so you can get in touch with me.</p>
-  <a href="https://www.linkedin.com/in/yago-pereira-dos-anjos-santos-85976750/" target="_blank">
+  <a href="https://www.linkedin.com/in/yapeansa" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:yago.pereira@estudante.ufjf.br" target="_blank">
