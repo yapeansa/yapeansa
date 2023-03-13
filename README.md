@@ -21,11 +21,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+<h2 align="center"> :man_technologist: About Me :</h2>
 
 Hello, my name is Yago Pereira. I'm 29 years old, borned in Três Rios - RJ - and currently living in Juiz de Fora - MG - where I graduated with bachelors degree in Mathematics at Universidade Federal de Juiz de Fora - [UFJF](http://ufjf.br). Today I'm a student at this very institution in the masters degree program in Mathematics. Also, I'm studying front-end web development and Python for data science at [Alura](https://alura.com.br).
 
-### :hammer_and_wrench: Languages and Tools :
+<h2 align="center"> :hammer_and_wrench: Languages and Tools :</h2>
 
 Below you can see the languages and tools in which I have experience.
 
@@ -37,7 +37,7 @@ Below you can see the languages and tools in which I have experience.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 </div>
 
-### :fire: My Stats :
+<h2 align="center"> :fire: My Stats :</h2>
 
 <div align="center">
   
