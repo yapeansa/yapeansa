@@ -27,7 +27,7 @@ Hello, my name is Yago Pereira. I'm 29 years old, borned in Três Rios - RJ - an
 
 <h2 align="center"> :hammer_and_wrench: Languages and Tools :</h2>
 
-Below you can see the languages and tools in which I have experience.
+<p align="center">Below you can see the languages and tools in which I have experience.</p>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
