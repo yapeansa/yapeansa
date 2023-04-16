@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=yapeansa&style=flat-square&color=blue" alt="Viewers"/>
 </div>
 
-<h2 align="center">to.Infinity() and beyond()!</h2>
+<h2 align="center">Coding is Fun</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
