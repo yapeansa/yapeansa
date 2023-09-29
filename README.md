@@ -1,8 +1,8 @@
 <div id="header" align="center">
   
   # Welcome
-  
-  ![Name image](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="200" />
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yapeansa)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yapeansa)
