@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  # Welcome
+  # Welcome to my Profile
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="200" />
 
