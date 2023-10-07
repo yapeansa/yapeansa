@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  ## :man_technologist: ABOUT ME :
+  ## :man_technologist: ABOUT ME
   
   Hello you! My name is [yapeansa](https://linktr.ee/yapeansa). I'm 29 years old, borned in Três Rios - RJ - and currently living in Juiz de Fora - MG - where I graduated with bachelors degree in Mathematics at Universidade Federal de Juiz de Fora - [UFJF](http://ufjf.br). Today I'm a student at this very institution in the masters degree program in Mathematics. Also, I'm studying front-end web development and Python for data science at [Alura](https://alura.com.br).
   
@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  ## :hammer_and_wrench: TECHNOLOGIES :
+  ## :hammer_and_wrench: TECHNOLOGIES
   
   Below you can see technologies in which I have experience.
 
@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  ## :fire: MY STATS :
+  ## :fire: MY STATS
 
   <img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 60%" /> <br />
   
