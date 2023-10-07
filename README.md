@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  # Welcome to my Profile
+  # WELCOME
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="200" />
 
@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  ## :man_technologist: About Me :
+  ## :man_technologist: ABOUT ME :
   
   Hello you! My name is [yapeansa](https://linktr.ee/yapeansa). I'm 29 years old, borned in Três Rios - RJ - and currently living in Juiz de Fora - MG - where I graduated with bachelors degree in Mathematics at Universidade Federal de Juiz de Fora - [UFJF](http://ufjf.br). Today I'm a student at this very institution in the masters degree program in Mathematics. Also, I'm studying front-end web development and Python for data science at [Alura](https://alura.com.br).
   
@@ -22,9 +22,9 @@
 
 <div align="center">
   
-  ## :hammer_and_wrench: Languages and Tools :
+  ## :hammer_and_wrench: TECHNOLOGIES :
   
-  Below you can see the languages and tools in which I have experience.
+  Below you can see technologies in which I have experience.
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  ## :fire: My Stats :
+  ## :fire: MY STATS :
 
   <img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 60%" /> <br />
   
@@ -48,7 +48,7 @@
 
 <div align="center">
   
-  ## How else to find me
+  ## CONTACT
 
   Here is my LinkedIn and my e-mail address so you can get in touch with me.
 
