@@ -40,7 +40,7 @@
   
   ## :fire: My Stats :
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 50%" /> <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 60%" /> <br />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=vision-friendly-dark" alt="Anurag's GitHub stats" style="width: 50%" />
   
