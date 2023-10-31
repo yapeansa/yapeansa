@@ -51,7 +51,6 @@ Logo abaixo você pode conferir as tecnologias em que possuo conhecimentos.
 ## :fire: MY STATS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=vision-friendly-dark)
 
 ## CONTATO
