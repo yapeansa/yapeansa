@@ -1,5 +1,3 @@
-<div align="center">
-  
 # BEM-VINDOS
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="200" />
@@ -59,7 +57,5 @@ Aqui estão algumas formas de entrar em contato comigo.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yapeansa)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yago.pereira@estudante.ufjf.br)
-
-</div>
 
 
