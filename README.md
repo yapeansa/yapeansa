@@ -12,7 +12,7 @@
   
 ## :man_technologist: SOBRE MIM
   
-Olá! Me chamo [Yago](https://linktr.ee/yapeansa). Tenho 29 anos, nascido Três Rios - RJ - e atualmente moro na cidade de Juiz de Fora - MG - onde me graduei no curso de bacharelado em Matemática pela Universidade Federal de Juiz de Fora - [UFJF](http://ufjf.br). Hoje, sou discente do curso de Mestrado Acadêmico em Matemática no programa de Pós-Graduação em Matemática desta mesma intituição. Além disso, também estudo desenvolvimento web Front-end na intituição de ensino [Alura](https://alura.com.br). Meu foco nesse campo de estudo é em React.js, tendo adquirido também um conhecimento sólido das bases HTML-CSS-Javascript. Ademais, estudo também outras linguagens, a saber, Python e C.
+Olá! Me chamo [Yago](https://linktr.ee/yapeansa). Tenho 30 anos e sou graduado em Matemática pela Universidade Federal de Juiz de Fora. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição.
   
 ## :hammer_and_wrench: MINHAS ESPECIALIDADES
   
