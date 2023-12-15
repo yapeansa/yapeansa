@@ -12,7 +12,7 @@
   
 ## :man_technologist: SOBRE MIM
   
-Olá! Me chamo [Yago](https://linktr.ee/yapeansa). Tenho 30 anos e sou graduado em Matemática pela Universidade Federal de Juiz de Fora. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição.
+Olá! Eu me chamo [Yago](https://linktr.ee/yapeansa). Tenho 30 anos e sou graduado em Matemática pela Universidade Federal de Juiz de Fora, na modalidade Bacharelado. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição. Estudei desenvolvimento Frontend (HTML, CSS, Javascript) na instituição de ensino Alura, onde pude me aperfeiçoar no framwork ReactJs.
   
 ## :hammer_and_wrench: MINHAS ESPECIALIDADES
   
