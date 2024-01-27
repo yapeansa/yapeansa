@@ -2,7 +2,7 @@
 
 # BEM-VINDOS
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="200" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="185" />
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yapeansa)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yapeansa)
@@ -12,7 +12,7 @@
   
 ## :man_technologist: SOBRE MIM
   
-Olá! Eu me chamo [Yago](https://linktr.ee/yapeansa). Tenho 30 anos e sou graduado em Matemática pela Universidade Federal de Juiz de Fora, na modalidade Bacharelado. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição. Estudei desenvolvimento Frontend (HTML, CSS, Javascript) na instituição de ensino Alura, onde pude me aperfeiçoar no framwork ReactJs.
+Olá! Eu sou o [Yago](https://linktr.ee/yapeansa) e tenho 30 anos. Sou bacharel em Matemática pela Universidade Federal de Juiz de Fora. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição. Estudei desenvolvimento Front-end (HTML, CSS, Javascript, React) na instituição de ensino Alura.
   
 ## :hammer_and_wrench: MINHAS ESPECIALIDADES
   
