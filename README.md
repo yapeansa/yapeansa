@@ -6,7 +6,7 @@ Olá! Eu sou o [Yago](https://linktr.ee/yapeansa) e tenho 30 anos. Sou bacharel 
 
 ![Viewers](https://komarev.com/ghpvc/?username=yapeansa&style=flat-square&color=blue)
   
-## :hammer_and_wrench: MINHAS ESPECIALIDADES
+## :hammer_and_wrench: MINHA STACK
   
 Possuo conhecimentos nas seguintes tecnologias:
 
