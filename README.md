@@ -2,17 +2,9 @@
 
 # BEM-VINDOS
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="155" />
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yapeansa)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yapeansa)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yapeansa)
+Olá! Eu sou o [Yago](https://linktr.ee/yapeansa) e tenho 30 anos. Sou bacharel em Matemática pela Universidade Federal de Juiz de Fora. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição. Estudei desenvolvimento Front-end (HTML, CSS, Javascript, React) na instituição de ensino Alura.
 
 ![Viewers](https://komarev.com/ghpvc/?username=yapeansa&style=flat-square&color=blue)
-  
-## :man_technologist: SOBRE MIM
-  
-Olá! Eu sou o [Yago](https://linktr.ee/yapeansa) e tenho 30 anos. Sou bacharel em Matemática pela Universidade Federal de Juiz de Fora. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição. Estudei desenvolvimento Front-end (HTML, CSS, Javascript, React) na instituição de ensino Alura.
   
 ## :hammer_and_wrench: MINHAS ESPECIALIDADES
   
@@ -37,10 +29,13 @@ Possuo conhecimentos nas seguintes tecnologias:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=vision-friendly-dark)
 
-## CONTATO
+## ENTRE EM CONTATO
 
 Aqui estão algumas formas de entrar em contato comigo.
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yapeansa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yapeansa)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yapeansa)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yapeansa)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yago.pereira@estudante.ufjf.br)
 
