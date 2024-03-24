@@ -1,5 +1,3 @@
-<div align="center">
-
 # BEM-VINDOS
 
 Olá! Eu sou o [Yago](https://linktr.ee/yapeansa) e tenho 30 anos. Sou bacharel em Matemática pela Universidade Federal de Juiz de Fora. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição. Estudei desenvolvimento Front-end (HTML, CSS, Javascript, React) na instituição de ensino Alura.
@@ -38,6 +36,4 @@ Aqui estão algumas formas de entrar em contato comigo.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yapeansa)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yapeansa)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yago.pereira@estudante.ufjf.br)
-
-</div>
 
