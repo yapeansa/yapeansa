@@ -1,12 +1,10 @@
-# BEM-VINDOS
+# OLÁ
 
-Olá! Eu sou o [Yago](https://linktr.ee/yapeansa) e tenho 30 anos. Sou bacharel em Matemática pela Universidade Federal de Juiz de Fora. Atualmente sou discente do curso de Mestrado Acadêmico em Matemática por esta mesma instituição. Estudei desenvolvimento Front-end (HTML, CSS, Javascript, React) na instituição de ensino Alura.
+Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascript. Possuo projetos pessoais desenvolvidos com o framework React. Com uma formação em bacharel em Matemática, possuo a capacidade de abstração e de compreensão e elaboração de soluções para problemas complexos.
 
 ![Viewers](https://komarev.com/ghpvc/?username=yapeansa&style=flat-square&color=blue)
   
 ## :hammer_and_wrench: MINHA STACK
-  
-Possuo conhecimentos nas seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,8 +26,6 @@ Possuo conhecimentos nas seguintes tecnologias:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=vision-friendly-dark)
 
 ## ENTRE EM CONTATO
-
-Aqui estão algumas formas de entrar em contato comigo.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yapeansa)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yapeansa)
