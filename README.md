@@ -1,6 +1,6 @@
 # SEJA BEM-VINDO!
 
-Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascript. Possuo projetos pessoais desenvolvidos com o framework React. Com uma formação em bacharel em Matemática, possuo a capacidade de abstração e de compreensão e elaboração de soluções para problemas complexos.
+Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascript. Possuo projetos pessoais desenvolvidos com o framework React. Com uma formação em bacharel em Matemática, possuo a capacidade de abstração, de compreensão e elaboração de soluções para problemas complexos.
 
 ![Viewers](https://komarev.com/ghpvc/?username=yapeansa&style=flat-square&color=blue)
   
