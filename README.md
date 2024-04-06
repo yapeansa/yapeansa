@@ -4,7 +4,7 @@ Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascr
 
 ![Viewers](https://komarev.com/ghpvc/?username=yapeansa&style=flat-square&color=blue)
   
-## :hammer_and_wrench: MINHA STACK
+## MINHA STACK
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -22,7 +22,7 @@ Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascr
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
   
-## :fire: MY STATS
+## MY STATS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=vision-friendly-dark)
