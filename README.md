@@ -26,13 +26,16 @@ Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascr
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+
+## LINGUAGENS MAIS UTILIZADAS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ## MY STATS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=vision-friendly-dark)
+![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=tokyonight)
 
-## ENTRE EM CONTATO
+## FALE COMIGO
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yapeansa)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yago.pereira@estudante.ufjf.br)
