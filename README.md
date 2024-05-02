@@ -1,6 +1,4 @@
-<div align="center">
-<h1>SEJA BEM-VINDO</h1>
-</div>
+# SEJA BEM-VINDO
 
 Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascript. Possuo projetos pessoais desenvolvidos com o framework React. Minha formação de bacharel em Matemática (UFJF) garante uma capacidade de abstração, compreensão e elaboração de soluções para problemas complexos.
 
