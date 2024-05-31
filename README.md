@@ -29,8 +29,7 @@ Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascr
 
 ## STATS & LINGUAGENS MAIS UTILIZADAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=tokyonight" alt="Yago Top Langs" height="200" /><img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=tokyonight" alt="Yago's GitHub stats" height="200" />
 
 ## CONTATO
 
