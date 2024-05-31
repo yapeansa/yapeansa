@@ -1,37 +1,23 @@
-# SEJA BEM-VINDO
+# Hello there, I'm Yago Pereira
 
-Sou um desenvolvedor front-end com sólidos conhecimentos em HTML, CSS e Javascript. Possuo projetos pessoais desenvolvidos com o framework React. Minha formação de bacharel em Matemática (UFJF) garante uma capacidade de abstração, compreensão e elaboração de soluções para problemas complexos.
-
-![Viewers](https://komarev.com/ghpvc/?username=yapeansa&style=flat-square&color=blue)
+I'm a front-end web developer specialized in the ReactJS library. I graduated with bachelor's degree in Mathematics from Federel University of Juiz de Fora, MG. Currently finishing the master's degree in Mathematics at the same institution.
   
-## STACK
+## My Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- HTML5
+- CSS3 | SASS | Tailwind | Bootstrap
+- JavaScript | TypeScript | Node | React
+- Git | GitHub
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SC](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+## My Goals
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+I'm looking to continuously explore new technologies to develop impactful and intuitive web user interfaces. By constantly learning and improving my skills in software development, I intend to collaborate and contribute on innovative solutions.
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+## GitHub Stats
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=tokyonight" alt="Yago Top Langs" height="185" /><img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=tokyonight" alt="Yago's GitHub stats" height="185" />
 
-## STATS & LINGUAGENS MAIS UTILIZADAS
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=compact&theme=tokyonight" alt="Yago Top Langs" height="200" /><img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=tokyonight" alt="Yago's GitHub stats" height="200" />
-
-## CONTATO
+## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yapeansa)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yago.pereira@estudante.ufjf.br)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yapeansa@gmail.com)
