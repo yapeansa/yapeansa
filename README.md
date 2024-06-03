@@ -5,7 +5,7 @@ I'm a front-end web developer specialized in the ReactJS library. I graduated wi
 ## My Stack
 
 - HTML5
-- CSS3 | SASS | Tailwind | Bootstrap
+- CSS3 | SASS | Tailwind | Bootstrap | Styled-Components
 - JavaScript | TypeScript | Node | React
 - Git | GitHub
 
