@@ -1,7 +1,7 @@
 # Hello there, I'm Yago Pereira
 
-I'm a front-end web developer specialized in the ReactJS library.
-Bachelor's degree in Mathematics from Federel University of Juiz de Fora (UFJF), MG.
+I'm a front-end web developer specialized in the ReactJS library.<br>
+Bachelor's degree in Mathematics from Federel University of Juiz de Fora (UFJF), MG.<br>
 Master's degree in Mathematics at the same institution.
   
 ## My Stack
