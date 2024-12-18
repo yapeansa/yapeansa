@@ -17,7 +17,7 @@ I'm looking to continuously explore new technologies to develop impactful and in
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=pie&theme=tokyonight" alt="Yago Top Langs" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=tokyonight" alt="Yago's GitHub stats" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=pie&theme=graywhite" alt="Yago Top Langs" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=graywhite" alt="Yago's GitHub stats" height="185" />
 
 
 ## Where to Find Me
