@@ -5,11 +5,7 @@ Bachelor's degree in Mathematics from Federel University of Juiz de Fora (UFJF),
 Master's degree in Mathematics at the same institution.
   
 ## My Stack
-
-- HTML5
-- CSS3 | SASS | Tailwind | Bootstrap | Styled-Components
-- JavaScript | TypeScript | Node | React
-- Git | GitHub
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
 ## My Goals
 
