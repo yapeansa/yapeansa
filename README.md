@@ -12,8 +12,13 @@ Currently, I'm also a PhD student in Computational Modeling at Federal Universit
 
 ## My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=pie&theme=dark" alt="Yago Top Langs" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=dark" alt="Yago's GitHub stats" height="185" />
+<div align="center">
 
+| Most Used Languages | My Stats |
+| :--: | :--: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=pie&theme=dark" alt="Yago Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=dark" alt="Yago's GitHub stats" height="185" /> |
+
+</div>
 
 ## Contact Me
 
