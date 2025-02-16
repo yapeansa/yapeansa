@@ -6,7 +6,7 @@
 
 Welcome to the Yago Pereira dos Anjos Santos' github profile (or simply yapeansa).
 
-- I'm a front-end web developer with knowledge in the ReactJS library.
+- I'm a front-end web developer.
 - BSc in Mathematics at Federal University of Juiz de Fora (UFJF), MG.
 - MSc in Mathematics at Federal University of Juiz de Fora (UFJF), MG.
 
