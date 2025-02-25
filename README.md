@@ -4,7 +4,7 @@
 
 </div>
 
-Welcome to the Yago Pereira dos Anjos Santos' github profile (or simply yapeansa).
+Welcome to the Yago Pereira dos Anjos Santos' github profile (or simply [@yapeansa](https://linktr.ee/yapeansa)).
 
 - I'm a front-end web developer.
 - BSc in Mathematics at Federal University of Juiz de Fora (UFJF), MG.
