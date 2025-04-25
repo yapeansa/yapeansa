@@ -15,7 +15,7 @@ Atualmente sou discente do programa de doutorado do programa de Pós-graduação
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=donut&theme=dark" alt="Yago Top Langs" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yapeansa&show_icons=true&theme=dark" alt="Yago's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapeansa&layout=donut&theme=dark" alt="Yago Top Langs" />
 
 </div>
 
