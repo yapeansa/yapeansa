@@ -17,11 +17,9 @@ Bem-vindo(a) ao meu perfil do Github.
 
 </div>
 
-<h2 align="center">Informações de contato</h2>
-
 <div align="center">
 
-Entre em contato
+Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yapeansa@gmail.com)
 
