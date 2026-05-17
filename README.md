@@ -9,8 +9,6 @@ Bem-vindo(a) ao meu perfil do Github.
 - Bacharel em Matemática pela Universidade Federal de Juiz de Fora (UFJF), MG.
 - Mestre em Matemática pela Universidade Federal de Juiz de Fora (UFJF), MG.
 
-Atualmente sou discente do programa de doutorado do programa de Pós-graduação em Modelagem Computacional da Universidade Federal de Juiz de Fora (UFJF), MG.
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
