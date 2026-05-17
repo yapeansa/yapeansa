@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu perfil do Github.
 - Bacharel em Matemática pela Universidade Federal de Juiz de Fora (UFJF), MG.
 - Mestre em Matemática pela Universidade Federal de Juiz de Fora (UFJF), MG.
 
-<h2 align="center">GitHub Stats</h2>
+## GitHub Stats
 
 <div align="center">
 
@@ -17,10 +17,7 @@ Bem-vindo(a) ao meu perfil do Github.
 
 </div>
 
-<div align="center">
-
-Contato
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yapeansa@gmail.com)
-
-</div>
+## Contato
+  
+&nbsp;
+E-mail: <a href="mailto:yapeansa@gmail.com">yapeansa@gmail.com</a>
